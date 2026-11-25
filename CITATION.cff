@@ -1,0 +1,37 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "諸說紛紛錄（RB00003348） / Shosetsu funpun roku: Transcription Dataset",
+  "message": "If you use this dataset, cite its fixed version and identify the source manuscript.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914",
+      "website": "https://github.com/poplolioi11"
+    }
+  ],
+  "date-released": "2026-11-26",
+  "url": "https://github.com/poplolioi11/shosetsu-funpunroku/releases/tag/v0.1.0",
+  "repository-code": "https://github.com/poplolioi11/shosetsu-funpunroku",
+  "abstract": "Shosetsu funpun roku is a medical manuscript held in the Fujikawa Collection at Kyoto University (RB00003348), catalogued under the author 羽元胤. It opens with a discussion of shortness of breath and fullness after childbirth and includes accounts of symptoms, cases, and prescriptions in Literary Chinese and Japanese. Marginal writing, red markings, and a loose handwritten slip offer evidence of how medical writers in early modern Japan organized observations, treatments, and their reported outcomes. The dataset maps to 24 official images, including 18 images bearing the main text, and provides JSON, TXT, TEI, and an item-level review ledger. The right page photographed in both images 22 and 23 is transcribed once. The ink mark newly visible at the lower left of image 23 retains its location. The AI-reviewed edition records 886 unresolved comparison items in the primary review. Full human collation is outstanding.",
+  "keywords": [
+    "日本醫學史",
+    "古籍寫本",
+    "產後病症",
+    "醫案",
+    "和漢混寫",
+    "醫方",
+    "富士川文庫",
+    "Japan",
+    "Japanese medical history",
+    "postpartum illness",
+    "medical case records",
+    "medical manuscripts",
+    "prescriptions",
+    "manuscript transcription",
+    "Literary Chinese and Japanese",
+    "TEI"
+  ]
+}
