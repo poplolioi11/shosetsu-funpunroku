@@ -33,5 +33,13 @@
     "manuscript transcription",
     "Literary Chinese and Japanese",
     "TEI"
+  ],
+  "doi": "10.5281/zenodo.24544719",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24544718",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
